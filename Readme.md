@@ -179,6 +179,7 @@ Average Order Value = DIVIDE([Total Revenue], [Total Orders], 0)
 MoM Growth % = DIVIDE([Total Revenue] - [Previous Month Revenue], [Previous Month Revenue], "N/A")
 ```
 
+---
 
 ### 8. Insights
 
@@ -207,6 +208,7 @@ Discontinue loss-making products and correct severe underpricing immediately.
 Shift focus toward high-revenue core products and rationalize the product mix.
 
 Avoid treating low-base MoM spikes as true growth signals; prioritize sustainable profitability.
+
 
 
 
