@@ -19,7 +19,7 @@ The analysis tracks growth patterns and highlights opportunities for strategic d
 - Orders table  
 
 **File Organization:**
-📁 Project Folder
+```📁 Project Folder
 ├── 01_raw_data_uncleaned.xlsx
 │ ├── Products_raw
 │ └── Orders_raw
@@ -27,8 +27,8 @@ The analysis tracks growth patterns and highlights opportunities for strategic d
 │ ├── Products_clean
 │ └── Orders_clean
 ├── 03 My_SQL Project
-└── 04 Power BI Dashboard
-
+└── 04 Power BI Dashboard 
+```
 
 
 The raw dataset was duplicated to create a cleaned version, preserving the original data for transparency and reference.
@@ -207,5 +207,6 @@ Discontinue loss-making products and correct severe underpricing immediately.
 Shift focus toward high-revenue core products and rationalize the product mix.
 
 Avoid treating low-base MoM spikes as true growth signals; prioritize sustainable profitability.
+
 
 
