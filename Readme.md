@@ -177,10 +177,10 @@ Total Orders = DISTINCTCOUNT(Orders[order_id])
 Total Quantity = SUM(Orders[quantity])
 Average Order Value = DIVIDE([Total Revenue], [Total Orders], 0)
 MoM Growth % = DIVIDE([Total Revenue] - [Previous Month Revenue], [Previous Month Revenue], "N/A")
+```
 
 
-
-Insights
+### 8. Insights
 
 Revenue from April–June 2025 was highly volatile, with low activity in April–May and an isolated spike in late May, ending the quarter in decline.
 
@@ -194,7 +194,7 @@ Products selling ≤29 units show structurally weak demand.
 
 Revenue growth is concentrated in a few core products, with limited contribution from the long tail.
 
-Recommendations
+### 9. Recommendations
 
 Investigate and validate the May revenue spike to understand key drivers.
 
@@ -207,6 +207,7 @@ Discontinue loss-making products and correct severe underpricing immediately.
 Shift focus toward high-revenue core products and rationalize the product mix.
 
 Avoid treating low-base MoM spikes as true growth signals; prioritize sustainable profitability.
+
 
 
 
