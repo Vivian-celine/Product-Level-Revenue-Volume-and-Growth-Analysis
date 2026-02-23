@@ -179,6 +179,27 @@ Average Order Value = DIVIDE([Total Revenue], [Total Orders], 0)
 MoM Growth % = DIVIDE([Total Revenue] - [Previous Month Revenue], [Previous Month Revenue], "N/A")
 ```
 
+# 📊 Project Dashboard Overview
+
+## 📌 Executive Overview
+![Executive Overview](Executive_Overview.PNG)
+
+This section provides a high-level summary of the project performance, highlighting key metrics and overall business insights.
+
+---
+
+## 📈 Product Trend
+![Product Trend](Product_Trend.PNG)
+
+This visualization shows product performance trends over time, helping to identify demand patterns and top-performing categories.
+
+---
+
+## 💰 Revenue Growth
+![Revenue Growth](Revenue_Growth.PNG)
+
+This chart presents revenue performance across periods, showing growth trends and overall financial progress.
+
 ---
 
 ### 8. Insights
@@ -208,6 +229,7 @@ Discontinue loss-making products and correct severe underpricing immediately.
 Shift focus toward high-revenue core products and rationalize the product mix.
 
 Avoid treating low-base MoM spikes as true growth signals; prioritize sustainable profitability.
+
 
 
 
