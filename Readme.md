@@ -196,7 +196,7 @@ This visualization shows product performance trends over time, helping to identi
 ---
 
 ## 💰 Revenue Growth
-![Revenue Growth](Revenue%20Growth.PNG)
+![Revenue Growth](Revenue%20growth.PNG)
 
 This chart presents revenue performance across periods, showing growth trends and overall financial progress.
 
@@ -229,6 +229,7 @@ Discontinue loss-making products and correct severe underpricing immediately.
 Shift focus toward high-revenue core products and rationalize the product mix.
 
 Avoid treating low-base MoM spikes as true growth signals; prioritize sustainable profitability.
+
 
 
 
