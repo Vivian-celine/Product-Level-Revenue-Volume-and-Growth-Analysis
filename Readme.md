@@ -216,6 +216,8 @@ Products selling ≤29 units show structurally weak demand.
 
 Revenue growth is concentrated in a few core products, with limited contribution from the long tail.
 
+---
+
 ### 9. Recommendations
 
 Investigate and validate the May revenue spike to understand key drivers.
@@ -229,6 +231,7 @@ Discontinue loss-making products and correct severe underpricing immediately.
 Shift focus toward high-revenue core products and rationalize the product mix.
 
 Avoid treating low-base MoM spikes as true growth signals; prioritize sustainable profitability.
+
 
 
 
