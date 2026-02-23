@@ -182,7 +182,7 @@ MoM Growth % = DIVIDE([Total Revenue] - [Previous Month Revenue], [Previous Mont
 # 📊 Project Dashboard Overview
 
 ## 📌 Executive Overview
-![Executive Overview](Executive_Overview.PNG)
+![Executive Overview](Executive%20Overview.PNG)
 
 This section provides a high-level summary of the project performance, highlighting key metrics and overall business insights.
 
@@ -229,6 +229,7 @@ Discontinue loss-making products and correct severe underpricing immediately.
 Shift focus toward high-revenue core products and rationalize the product mix.
 
 Avoid treating low-base MoM spikes as true growth signals; prioritize sustainable profitability.
+
 
 
 
